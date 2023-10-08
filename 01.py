@@ -1,6 +1,0 @@
-print('Введитие число, которое нужно округлить:')
-num1 = float(input())
-print('Введитие число, до которого нужно огруглить после запятой:')
-num2 = int(input())
-answer = round(num1, num2)
-print('Ответ: ', answer)
