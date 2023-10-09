@@ -4,5 +4,5 @@ num1 = int(input())
 print('Введитие второе число:')
 num2 = int(input())
 answer = (num1 + num2) / 2
-round(answer)
-print('Ответ: ', answer)
+answer = (num1 + num2) / 2
+print('Ответ: ', int(answer))
